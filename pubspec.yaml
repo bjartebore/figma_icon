@@ -1,0 +1,15 @@
+name: figma_icon
+description: A simple abstraction class dependency for icons generated with figma_icon_builder
+version: 1.0.0
+repository: 
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  lints: ^1.0.1
+  import_sorter: ^4.4.2

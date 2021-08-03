@@ -1,0 +1,1 @@
+export 'src/painted_icon.dart';
